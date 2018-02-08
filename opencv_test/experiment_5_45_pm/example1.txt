@@ -1,0 +1,54 @@
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+ check PO.Transpose 
+[-0.5400009154668917, 0.002499985564278218, 0, 1]
+ check PO.Transpose 
+[-0.6937503814092745, 0.002499985654958792, 0, 1]
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+ check PO.Transpose 
+[-0.7962493895879854, 0.00249998571541199, 0, 1]
+ check PO.Transpose 
+[-0.6937503814092745, 0.002499985654958792, 0, 1]
+ check PO.Transpose 
+[-0.5912494658819307, 0.002499985594504261, 0, 1]
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+ check PO.Transpose 
+[-0.6937503814092745, 0.002499985654958792, 0, 1]
+ check PO.Transpose 
+[-0.6937503814092745, 0.002499985654958792, 0, 1]
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+ check PO.Transpose 
+[-0.5912494658819307, 0.002499985594504261, 0, 1]
+ check PO.Transpose 
+[-0.6937503814092745, 0.002499985654958792, 0, 1]
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+ check PO.Transpose 
+[-0.6937503814092745, 0.002499985654958792, 0, 1]
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+ check PO.Transpose 
+[-0.7450008391729463, 0.002499985685185946, 0, 1]
+ check PO.Transpose 
+[-0.6424999236456026, 0.002499985624731638, 0, 1]
+rot angle[degree] = 81.8698
+rot angle[degree] = 79.9921
+rot angle[degree] = 75.9638
+rot angle[degree] = 70.0169
+rot angle[degree] = 65.556
+rot angle[degree] = 59.6568
+rot angle[degree] = 51.3402
+rot angle[degree] = 48.3665
+rot angle[degree] = 55.008
+rot angle[degree] = 41.9871
+rot angle[degree] = 48.0128
+rot angle[degree] = 39.2894
+rot angle[degree] = 45
+rot angle[degree] = 38.6599
+rot angle[degree] = 41.6335
+rot angle[degree] = 32.4712

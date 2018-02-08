@@ -1,0 +1,33 @@
+﻿  main.cpp
+c:\program files\protobuf\include\google\protobuf\io\coded_stream.h(870): warning C4800: 'google::protobuf::internal::AtomicWord': forcing value to bool 'true' or 'false' (performance warning)
+c:\program files\protobuf\include\google\protobuf\io\coded_stream.h(874): warning C4800: 'google::protobuf::internal::Atomic64': forcing value to bool 'true' or 'false' (performance warning)
+c:\program files\protobuf\include\google\protobuf\generated_message_util.h(160): warning C4800: 'google::protobuf::uint32': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(46): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(73): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(144): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(213): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(217): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(222): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(279): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(280): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(284): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(285): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(286): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(288): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(291): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(310): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(314): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(337): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(377): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(380): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(417): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(480): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(344): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(344): note: consider using '%zd' in the format string
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(422): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(422): note: consider using '%zd' in the format string
+c:\users\rise\desktop\mahir\opencv_test\opencv_test\main.cpp(845): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  opencv_test.vcxproj -> C:\Users\RISE\Desktop\Mahir\opencv_test\opencv_test.exe
+  opencv_test.vcxproj -> C:\Users\RISE\Desktop\Mahir\opencv_test\opencv_test.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿  egm_only-test.cpp
+c:\program files\protobuf\include\google\protobuf\io\coded_stream.h(870): warning C4800: 'google::protobuf::internal::AtomicWord': forcing value to bool 'true' or 'false' (performance warning)
+c:\program files\protobuf\include\google\protobuf\io\coded_stream.h(874): warning C4800: 'google::protobuf::internal::Atomic64': forcing value to bool 'true' or 'false' (performance warning)
+c:\program files\protobuf\include\google\protobuf\generated_message_util.h(160): warning C4800: 'google::protobuf::uint32': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\rise\desktop\mahir\opencv_test\egm_only-test\egm_only-test.cpp(141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\egm_only-test\egm_only-test.cpp(202): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\egm_only-test\egm_only-test.cpp(204): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\egm_only-test\egm_only-test.cpp(218): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\egm_only-test\egm_only-test.cpp(228): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rise\desktop\mahir\opencv_test\egm_only-test\egm_only-test.cpp(259): warning C4101: 'n': unreferenced local variable
+c:\users\rise\desktop\mahir\opencv_test\egm_only-test\egm_only-test.cpp(304): warning C4715: 'main_old': not all control paths return a value
+  egm_only-test.vcxproj -> C:\Users\RISE\Desktop\Mahir\opencv_test\x64\Debug\egm_only-test.exe
+  egm_only-test.vcxproj -> C:\Users\RISE\Desktop\Mahir\opencv_test\x64\Debug\egm_only-test.pdb (Full PDB)
